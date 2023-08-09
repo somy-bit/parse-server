@@ -1,0 +1,209 @@
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'directAccess' default will change to 'true' in a future version. Additionally, the environment variable 'PARSE_SERVER_ENABLE_EXPERIMENTAL_DIRECT_ACCESS' will be deprecated and renamed to 'PARSE_SERVER_DIRECT_ACCESS' in a future version; it is currently possible to use either one.","timestamp":"2023-07-16T10:31:32.667Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'enforcePrivateUsers' default will change to 'true' in a future version.","timestamp":"2023-07-16T10:31:32.677Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowClientClassCreation' default will change to 'false' in a future version.","timestamp":"2023-07-16T10:31:32.681Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2023-07-16T10:31:42.476Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user 7HxHQUw2S7 with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T10:34:18.166Z","user":"7HxHQUw2S7"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user 7HxHQUw2S7 with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T10:34:18.182Z","user":"7HxHQUw2S7"}
+{"level":"info","message":"Create new client: f2584d58-338b-42d8-9987-5276d1067d80","timestamp":"2023-07-16T10:47:36.037Z"}
+{"level":"info","message":"Create new client: 51476eb5-d2cf-4284-b7aa-ee6c1ed42340","timestamp":"2023-07-16T10:47:36.055Z"}
+{"level":"info","message":"Client disconnect: 51476eb5-d2cf-4284-b7aa-ee6c1ed42340","timestamp":"2023-07-16T10:52:34.831Z"}
+{"level":"info","message":"Client disconnect: f2584d58-338b-42d8-9987-5276d1067d80","timestamp":"2023-07-16T10:52:34.845Z"}
+{"level":"info","message":"Create new client: 6ae2524b-6f3e-4327-8597-231c2e5ac10f","timestamp":"2023-07-16T10:52:36.830Z"}
+{"level":"info","message":"Create new client: 65bdfe96-3f2a-4d5a-b7bf-087894252747","timestamp":"2023-07-16T10:52:36.865Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user 7HxHQUw2S7 with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T10:52:37.052Z","user":"7HxHQUw2S7"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user 7HxHQUw2S7 with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T10:52:37.059Z","user":"7HxHQUw2S7"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user 7HxHQUw2S7 with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T11:02:53.806Z","user":"7HxHQUw2S7"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user 7HxHQUw2S7 with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T11:02:53.811Z","user":"7HxHQUw2S7"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user 7HxHQUw2S7 with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T11:07:23.954Z","user":"7HxHQUw2S7"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user 7HxHQUw2S7 with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T11:07:23.958Z","user":"7HxHQUw2S7"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user 7HxHQUw2S7 with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T11:08:41.851Z","user":"7HxHQUw2S7"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user 7HxHQUw2S7 with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T11:08:41.970Z","user":"7HxHQUw2S7"}
+{"level":"info","message":"Client disconnect: 6ae2524b-6f3e-4327-8597-231c2e5ac10f","timestamp":"2023-07-16T11:08:50.472Z"}
+{"level":"info","message":"Client disconnect: 65bdfe96-3f2a-4d5a-b7bf-087894252747","timestamp":"2023-07-16T11:08:50.500Z"}
+{"level":"info","message":"Create new client: 5cb69208-c29c-49c3-be9b-ccd1ebef5d3a","timestamp":"2023-07-16T11:08:52.333Z"}
+{"level":"info","message":"Create new client: ae6ad271-b7ea-4366-a8b4-ea964cbb76dc","timestamp":"2023-07-16T11:08:52.340Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user 7HxHQUw2S7 with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T11:08:52.540Z","user":"7HxHQUw2S7"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user 7HxHQUw2S7 with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T11:08:52.549Z","user":"7HxHQUw2S7"}
+{"level":"info","message":"Client disconnect: 5cb69208-c29c-49c3-be9b-ccd1ebef5d3a","timestamp":"2023-07-16T11:10:08.325Z"}
+{"level":"info","message":"Client disconnect: ae6ad271-b7ea-4366-a8b4-ea964cbb76dc","timestamp":"2023-07-16T11:10:08.328Z"}
+{"level":"info","message":"Create new client: 8d17fd6b-73ed-4c61-8349-6905ab74cdb5","timestamp":"2023-07-16T11:10:10.055Z"}
+{"level":"info","message":"Create new client: 51a1ab83-4664-46ea-8fc2-39fb7cc8181c","timestamp":"2023-07-16T11:10:10.057Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user 7HxHQUw2S7 with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T11:10:10.257Z","user":"7HxHQUw2S7"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user 7HxHQUw2S7 with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T11:10:10.261Z","user":"7HxHQUw2S7"}
+{"level":"info","message":"Client disconnect: 8d17fd6b-73ed-4c61-8349-6905ab74cdb5","timestamp":"2023-07-16T11:10:32.548Z"}
+{"level":"info","message":"Client disconnect: 51a1ab83-4664-46ea-8fc2-39fb7cc8181c","timestamp":"2023-07-16T11:10:32.552Z"}
+{"level":"info","message":"Create new client: 6be6abed-a020-4cbe-879a-f4e58da64497","timestamp":"2023-07-16T11:10:34.307Z"}
+{"level":"info","message":"Create new client: 12af6d41-655e-4d59-9182-7def6289fda8","timestamp":"2023-07-16T11:10:34.329Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user 7HxHQUw2S7 with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T11:10:34.610Z","user":"7HxHQUw2S7"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user 7HxHQUw2S7 with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T11:10:34.676Z","user":"7HxHQUw2S7"}
+{"level":"info","message":"Client disconnect: 6be6abed-a020-4cbe-879a-f4e58da64497","timestamp":"2023-07-16T11:40:38.653Z"}
+{"level":"info","message":"Client disconnect: 12af6d41-655e-4d59-9182-7def6289fda8","timestamp":"2023-07-16T11:40:38.665Z"}
+{"level":"info","message":"Create new client: d8a377c2-3ef9-476e-97d2-770046cc6c3d","timestamp":"2023-07-16T11:40:40.650Z"}
+{"level":"info","message":"Create new client: 25446764-e3cc-40e4-bfa4-e14b2f71928c","timestamp":"2023-07-16T11:40:40.659Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user 7HxHQUw2S7 with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T11:40:40.890Z","user":"7HxHQUw2S7"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user 7HxHQUw2S7 with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T11:40:40.984Z","user":"7HxHQUw2S7"}
+{"level":"info","message":"Client disconnect: d8a377c2-3ef9-476e-97d2-770046cc6c3d","timestamp":"2023-07-16T11:44:10.179Z"}
+{"level":"info","message":"Client disconnect: 25446764-e3cc-40e4-bfa4-e14b2f71928c","timestamp":"2023-07-16T11:44:10.189Z"}
+{"level":"info","message":"Create new client: 5323f338-0237-41aa-8888-2859be44a576","timestamp":"2023-07-16T11:44:11.898Z"}
+{"level":"info","message":"Create new client: 41695628-21d6-422a-95a7-2bee117c56a7","timestamp":"2023-07-16T11:44:11.900Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user 7HxHQUw2S7 with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T11:44:12.053Z","user":"7HxHQUw2S7"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user 7HxHQUw2S7 with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T11:44:12.065Z","user":"7HxHQUw2S7"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user 7HxHQUw2S7 with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T12:05:59.906Z","user":"7HxHQUw2S7"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user 7HxHQUw2S7 with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T12:05:59.912Z","user":"7HxHQUw2S7"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T12:14:29.366Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T12:14:29.384Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T12:15:20.759Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T12:15:20.767Z"}
+{"level":"info","message":"Create new client: b199734d-3da0-4a25-a04a-e07d6a23ed26","timestamp":"2023-07-16T12:16:02.803Z"}
+{"level":"info","message":"Create new client: 4bfd64f5-9f18-4cd2-be9f-9fe61edf737b","timestamp":"2023-07-16T12:16:02.817Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user 7HxHQUw2S7 with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T12:16:03.029Z","user":"7HxHQUw2S7"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user 7HxHQUw2S7 with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T12:16:03.033Z","user":"7HxHQUw2S7"}
+{"level":"info","message":"Client disconnect: 4bfd64f5-9f18-4cd2-be9f-9fe61edf737b","timestamp":"2023-07-16T12:19:34.754Z"}
+{"level":"info","message":"Client disconnect: b199734d-3da0-4a25-a04a-e07d6a23ed26","timestamp":"2023-07-16T12:19:34.760Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T12:19:36.504Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T12:19:36.510Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T12:21:22.451Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T12:21:22.459Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T12:21:51.846Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T12:21:51.853Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T12:25:35.312Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T12:25:35.317Z"}
+{"code":209,"level":"error","message":"Invalid session token","stack":"Error: Invalid session token\n    at Object.getAuthForSessionToken (D:\\projects\\parse-server\\node_modules\\parse-server\\lib\\Auth.js:112:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2023-07-16T12:27:01.532Z"}
+{"level":"info","message":"Client disconnect: 5323f338-0237-41aa-8888-2859be44a576","timestamp":"2023-07-16T12:27:07.971Z"}
+{"level":"info","message":"Client disconnect: 41695628-21d6-422a-95a7-2bee117c56a7","timestamp":"2023-07-16T12:27:07.995Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T12:27:10.237Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T12:27:10.244Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T12:29:20.237Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T12:29:20.287Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T12:30:52.497Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T12:30:52.505Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T12:41:32.036Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T12:41:32.107Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'directAccess' default will change to 'true' in a future version. Additionally, the environment variable 'PARSE_SERVER_ENABLE_EXPERIMENTAL_DIRECT_ACCESS' will be deprecated and renamed to 'PARSE_SERVER_DIRECT_ACCESS' in a future version; it is currently possible to use either one.","timestamp":"2023-07-16T12:46:43.788Z"}
+{"level":"info","message":"Parse LiveQuery Server started running","timestamp":"2023-07-16T12:46:49.909Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'enforcePrivateUsers' default will change to 'true' in a future version.","timestamp":"2023-07-16T12:46:43.796Z"}
+{"level":"warn","message":"DeprecationWarning: The Parse Server option 'allowClientClassCreation' default will change to 'false' in a future version.","timestamp":"2023-07-16T12:46:43.798Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T12:48:15.863Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T12:48:15.886Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T12:53:50.898Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T12:53:50.909Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T12:54:28.534Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T12:54:28.544Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T12:55:20.704Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T12:55:20.715Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T12:57:06.501Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T12:57:06.509Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T12:58:17.494Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T12:58:17.501Z"}
+{"functionName":"requestMessage","level":"info","message":"Ran cloud function requestMessage for user undefined with:\n  Input: {\"address\":\"0xa916e27c99fe4befc28644dbceb5e3a822f3f0ca\",\"chain\":80001,\"network\":\"evm\"}\n  Result: {\"message\":\"localhost wants you to sign in with your Ethereum account:\\n0xA916e27c99fE4bEFC28644DbCeb5E3A822F3F0CA\\n\\nPlease sign this message to confirm your identity.\\n\\nURI: http://localhost:1337/server\\nVersion: 1\\nChain ID: 80001\\nNonce: eVsfk2KefXNDWzUF5\\nIssued At: 2023-07-16T12:59:07.709Z\\nExpiration Time: 2023-07-16T13:14:06.859Z\\nNot Before: 2023-07-16T12:59:06.859Z\"}","params":{"address":"0xa916e27c99fe4befc28644dbceb5e3a822f3f0ca","chain":80001,"network":"evm"},"timestamp":"2023-07-16T12:59:08.038Z"}
+{"functionName":"getServerTime","level":"info","message":"Ran cloud function getServerTime for user undefined with:\n  Input: {}\n  Result: null","params":{},"timestamp":"2023-07-16T12:59:08.073Z"}
+{"level":"warn","message":"DeprecationWarning: auth.moralisEth is deprecated and will be removed in a future version. auth.moralisEth.enabled: true","timestamp":"2023-07-16T12:59:21.797Z"}
+{"level":"info","message":"Create new client: 46071ad6-a76f-4fc6-96ee-cf3eeabb217e","timestamp":"2023-07-16T12:59:25.332Z"}
+{"level":"info","message":"Create new client: ebb1af40-1b43-468c-8ac8-604cf84cf0f2","timestamp":"2023-07-16T12:59:25.337Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T13:01:10.750Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T13:01:10.768Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T13:03:05.642Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T13:03:05.664Z"}
+{"functionName":"requestMessage","level":"info","message":"Ran cloud function requestMessage for user undefined with:\n  Input: {\"address\":\"0x1ca7974a3d6909c9226673ade7a377692c1c888a\",\"chain\":1,\"network\":\"evm\"}\n  Result: {\"message\":\"localhost wants you to sign in with your Ethereum account:\\n0x1ca7974a3d6909c9226673Ade7A377692C1C888A\\n\\nPlease sign this message to confirm your identity.\\n\\nURI: http://localhost:1337/server\\nVersion: 1\\nChain ID: 1\\nNonce: Upg0TdMLzRH6riR8w\\nIssued At: 2023-07-16T13:06:49.198Z\\nExpiration Time: 2023-07-16T13:21:48.642Z\\nNot Before: 2023-07-16T13:06:48.642Z\"}","params":{"address":"0x1ca7974a3d6909c9226673ade7a377692c1c888a","chain":1,"network":"evm"},"timestamp":"2023-07-16T13:06:49.543Z"}
+{"functionName":"getServerTime","level":"info","message":"Ran cloud function getServerTime for user undefined with:\n  Input: {}\n  Result: null","params":{},"timestamp":"2023-07-16T13:06:49.656Z"}
+{"level":"warn","message":"DeprecationWarning: auth.moralisEth is deprecated and will be removed in a future version. auth.moralisEth.enabled: true","timestamp":"2023-07-16T13:06:58.547Z"}
+{"level":"info","message":"Create new client: 546bc2a4-b183-457b-b15c-82e3e1d3555f","timestamp":"2023-07-16T13:07:01.853Z"}
+{"level":"info","message":"Create new client: 49799ae9-be61-4197-b263-dbece20be6b8","timestamp":"2023-07-16T13:07:01.856Z"}
+{"level":"info","message":"Client disconnect: 546bc2a4-b183-457b-b15c-82e3e1d3555f","timestamp":"2023-07-16T13:08:20.854Z"}
+{"level":"info","message":"Client disconnect: 49799ae9-be61-4197-b263-dbece20be6b8","timestamp":"2023-07-16T13:08:20.892Z"}
+{"level":"info","message":"Create new client: a59cf946-d859-4d54-a116-9b57ed4c19dc","timestamp":"2023-07-16T13:08:22.813Z"}
+{"level":"info","message":"Create new client: 46af1e51-0bd4-42d6-9bf0-2df0b3b0bd3c","timestamp":"2023-07-16T13:08:22.817Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user kBO2SWljWA with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T13:08:23.211Z","user":"kBO2SWljWA"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user kBO2SWljWA with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T13:08:23.224Z","user":"kBO2SWljWA"}
+{"level":"info","message":"Client disconnect: a59cf946-d859-4d54-a116-9b57ed4c19dc","timestamp":"2023-07-16T13:12:17.564Z"}
+{"level":"info","message":"Client disconnect: 46af1e51-0bd4-42d6-9bf0-2df0b3b0bd3c","timestamp":"2023-07-16T13:12:17.581Z"}
+{"level":"info","message":"Create new client: 514b1169-23f6-4dc3-89b2-657d10607512","timestamp":"2023-07-16T13:12:19.480Z"}
+{"level":"info","message":"Create new client: 3283e1d8-91b9-4256-a4cd-15657a3bf084","timestamp":"2023-07-16T13:12:19.482Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user kBO2SWljWA with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T13:12:20.051Z","user":"kBO2SWljWA"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user kBO2SWljWA with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T13:12:20.062Z","user":"kBO2SWljWA"}
+{"level":"info","message":"Client disconnect: ebb1af40-1b43-468c-8ac8-604cf84cf0f2","timestamp":"2023-07-16T13:17:02.621Z"}
+{"level":"info","message":"Client disconnect: 46071ad6-a76f-4fc6-96ee-cf3eeabb217e","timestamp":"2023-07-16T13:17:02.646Z"}
+{"level":"info","message":"Create new client: ea01014c-3b12-49e8-8911-624f7f0eaf4e","timestamp":"2023-07-16T13:17:04.933Z"}
+{"level":"info","message":"Create new client: 42fd7082-4d75-471b-9edd-5de108adaf08","timestamp":"2023-07-16T13:17:04.937Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user 7HxHQUw2S7 with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T13:17:05.163Z","user":"7HxHQUw2S7"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user 7HxHQUw2S7 with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T13:17:05.174Z","user":"7HxHQUw2S7"}
+{"level":"info","message":"Client disconnect: ea01014c-3b12-49e8-8911-624f7f0eaf4e","timestamp":"2023-07-16T13:18:40.531Z"}
+{"level":"info","message":"Client disconnect: 42fd7082-4d75-471b-9edd-5de108adaf08","timestamp":"2023-07-16T13:18:40.534Z"}
+{"level":"info","message":"Create new client: 8f6517d1-9ac2-4da0-ae79-0af1eb4ca040","timestamp":"2023-07-16T13:18:42.212Z"}
+{"level":"info","message":"Create new client: 0f45e18e-e3e8-4d54-847b-7796263ac201","timestamp":"2023-07-16T13:18:42.217Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user 7HxHQUw2S7 with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T13:18:42.615Z","user":"7HxHQUw2S7"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user 7HxHQUw2S7 with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T13:18:42.635Z","user":"7HxHQUw2S7"}
+{"level":"info","message":"Client disconnect: 0f45e18e-e3e8-4d54-847b-7796263ac201","timestamp":"2023-07-16T13:20:03.798Z"}
+{"level":"info","message":"Client disconnect: 8f6517d1-9ac2-4da0-ae79-0af1eb4ca040","timestamp":"2023-07-16T13:20:03.806Z"}
+{"level":"info","message":"Create new client: 13528190-502b-44ec-90ab-78e4295679bb","timestamp":"2023-07-16T13:20:05.471Z"}
+{"level":"info","message":"Create new client: 67b132c3-b886-40d5-a885-d964b62efd3c","timestamp":"2023-07-16T13:20:05.473Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user 7HxHQUw2S7 with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T13:20:05.601Z","user":"7HxHQUw2S7"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user 7HxHQUw2S7 with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T13:20:05.610Z","user":"7HxHQUw2S7"}
+{"level":"info","message":"Client disconnect: 13528190-502b-44ec-90ab-78e4295679bb","timestamp":"2023-07-16T13:26:32.971Z"}
+{"level":"info","message":"Client disconnect: 67b132c3-b886-40d5-a885-d964b62efd3c","timestamp":"2023-07-16T13:26:32.983Z"}
+{"level":"info","message":"Create new client: d069b150-1d93-4fa0-b76a-0b068b3da5e0","timestamp":"2023-07-16T13:26:34.665Z"}
+{"level":"info","message":"Create new client: 32d722d7-653a-444e-a34a-bd31be9c79ea","timestamp":"2023-07-16T13:26:34.668Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user 7HxHQUw2S7 with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T13:26:34.851Z","user":"7HxHQUw2S7"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user 7HxHQUw2S7 with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T13:26:34.867Z","user":"7HxHQUw2S7"}
+{"level":"info","message":"Client disconnect: d069b150-1d93-4fa0-b76a-0b068b3da5e0","timestamp":"2023-07-16T13:27:38.750Z"}
+{"level":"info","message":"Client disconnect: 32d722d7-653a-444e-a34a-bd31be9c79ea","timestamp":"2023-07-16T13:27:38.755Z"}
+{"level":"info","message":"Create new client: 041b1777-2115-4e5a-989e-233bcc074d32","timestamp":"2023-07-16T13:27:40.321Z"}
+{"level":"info","message":"Create new client: 55f2f3a3-8718-47eb-94ac-92b54b30819e","timestamp":"2023-07-16T13:27:40.366Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user 7HxHQUw2S7 with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T13:27:40.532Z","user":"7HxHQUw2S7"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user 7HxHQUw2S7 with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T13:27:40.540Z","user":"7HxHQUw2S7"}
+{"level":"info","message":"Client disconnect: 55f2f3a3-8718-47eb-94ac-92b54b30819e","timestamp":"2023-07-16T13:35:03.574Z"}
+{"level":"info","message":"Client disconnect: 041b1777-2115-4e5a-989e-233bcc074d32","timestamp":"2023-07-16T13:35:03.578Z"}
+{"level":"info","message":"Create new client: cffebea4-8bde-4afb-a228-eb9c6d516983","timestamp":"2023-07-16T13:35:05.327Z"}
+{"level":"info","message":"Create new client: d2ced206-c6c9-4aac-9bd4-b5dab76e6d19","timestamp":"2023-07-16T13:35:05.329Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user 7HxHQUw2S7 with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T13:35:05.499Z","user":"7HxHQUw2S7"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user 7HxHQUw2S7 with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T13:35:05.512Z","user":"7HxHQUw2S7"}
+{"level":"info","message":"Client disconnect: 3283e1d8-91b9-4256-a4cd-15657a3bf084","timestamp":"2023-07-16T14:14:21.669Z"}
+{"level":"info","message":"Client disconnect: 514b1169-23f6-4dc3-89b2-657d10607512","timestamp":"2023-07-16T14:14:21.714Z"}
+{"level":"info","message":"Create new client: 27b56329-5b2a-4552-a5ab-7e133a0f7531","timestamp":"2023-07-16T14:14:27.577Z"}
+{"level":"info","message":"Create new client: 54bc0756-44b6-414d-aea9-06b042ea1060","timestamp":"2023-07-16T14:14:27.620Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user kBO2SWljWA with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T14:14:28.737Z","user":"kBO2SWljWA"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user kBO2SWljWA with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T14:14:28.845Z","user":"kBO2SWljWA"}
+{"level":"info","message":"Client disconnect: 27b56329-5b2a-4552-a5ab-7e133a0f7531","timestamp":"2023-07-16T14:15:43.095Z"}
+{"level":"info","message":"Client disconnect: 54bc0756-44b6-414d-aea9-06b042ea1060","timestamp":"2023-07-16T14:15:43.098Z"}
+{"level":"info","message":"Create new client: f5d6ee95-4fdc-4179-957b-b8797bd70f11","timestamp":"2023-07-16T14:15:44.731Z"}
+{"level":"info","message":"Create new client: 20a4fad2-1e29-4a6e-b2ff-7fa0f26b430f","timestamp":"2023-07-16T14:15:44.751Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user kBO2SWljWA with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T14:15:44.941Z","user":"kBO2SWljWA"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user kBO2SWljWA with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T14:15:44.948Z","user":"kBO2SWljWA"}
+{"level":"info","message":"Client disconnect: 20a4fad2-1e29-4a6e-b2ff-7fa0f26b430f","timestamp":"2023-07-16T14:16:32.001Z"}
+{"level":"info","message":"Client disconnect: f5d6ee95-4fdc-4179-957b-b8797bd70f11","timestamp":"2023-07-16T14:16:32.006Z"}
+{"level":"info","message":"Create new client: bd49fcd1-e08c-463e-9b3f-f2c9125a503b","timestamp":"2023-07-16T14:16:33.583Z"}
+{"level":"info","message":"Create new client: ab34884d-9a4d-49cf-b84f-1ae37bff4bc6","timestamp":"2023-07-16T14:16:33.587Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user kBO2SWljWA with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T14:16:33.818Z","user":"kBO2SWljWA"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user kBO2SWljWA with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T14:16:33.855Z","user":"kBO2SWljWA"}
+{"level":"info","message":"Client disconnect: bd49fcd1-e08c-463e-9b3f-f2c9125a503b","timestamp":"2023-07-16T14:19:23.804Z"}
+{"level":"info","message":"Client disconnect: ab34884d-9a4d-49cf-b84f-1ae37bff4bc6","timestamp":"2023-07-16T14:19:23.809Z"}
+{"level":"info","message":"Create new client: ab7fad4c-4d8e-4720-a51a-320fa1aa705f","timestamp":"2023-07-16T14:19:25.736Z"}
+{"level":"info","message":"Create new client: cf97830c-0a15-459e-a49b-70a9b7b50259","timestamp":"2023-07-16T14:19:25.740Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user kBO2SWljWA with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T14:19:25.970Z","user":"kBO2SWljWA"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user kBO2SWljWA with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T14:19:25.980Z","user":"kBO2SWljWA"}
+{"level":"info","message":"Client disconnect: d2ced206-c6c9-4aac-9bd4-b5dab76e6d19","timestamp":"2023-07-16T14:20:53.351Z"}
+{"level":"info","message":"Client disconnect: cffebea4-8bde-4afb-a228-eb9c6d516983","timestamp":"2023-07-16T14:20:53.355Z"}
+{"level":"info","message":"Create new client: 3caac198-fbd1-4ce4-9ec6-c1e72f04bc74","timestamp":"2023-07-16T14:20:55.413Z"}
+{"level":"info","message":"Create new client: d2f601bf-5cf7-4d28-8a3c-cec54fdd61bd","timestamp":"2023-07-16T14:20:55.416Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user 7HxHQUw2S7 with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T14:20:55.640Z","user":"7HxHQUw2S7"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user 7HxHQUw2S7 with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T14:20:55.645Z","user":"7HxHQUw2S7"}
+{"level":"info","message":"Client disconnect: 3caac198-fbd1-4ce4-9ec6-c1e72f04bc74","timestamp":"2023-07-16T14:22:45.379Z"}
+{"level":"info","message":"Client disconnect: d2f601bf-5cf7-4d28-8a3c-cec54fdd61bd","timestamp":"2023-07-16T14:22:45.389Z"}
+{"level":"info","message":"Create new client: 5888e8e1-7cdc-4ee3-9102-3d0a4c1217dc","timestamp":"2023-07-16T14:22:47.124Z"}
+{"level":"info","message":"Create new client: 920438d0-0f2b-4c08-aa7c-9a8515e678fd","timestamp":"2023-07-16T14:22:47.128Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user 7HxHQUw2S7 with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T14:22:47.411Z","user":"7HxHQUw2S7"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user 7HxHQUw2S7 with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T14:22:47.424Z","user":"7HxHQUw2S7"}
+{"level":"info","message":"Client disconnect: 5888e8e1-7cdc-4ee3-9102-3d0a4c1217dc","timestamp":"2023-07-16T14:28:41.387Z"}
+{"level":"info","message":"Client disconnect: 920438d0-0f2b-4c08-aa7c-9a8515e678fd","timestamp":"2023-07-16T14:28:41.390Z"}
+{"level":"info","message":"Client disconnect: ab7fad4c-4d8e-4720-a51a-320fa1aa705f","timestamp":"2023-07-16T14:54:37.054Z"}
+{"level":"info","message":"Client disconnect: cf97830c-0a15-459e-a49b-70a9b7b50259","timestamp":"2023-07-16T14:54:37.098Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T14:54:38.929Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T14:54:38.935Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T14:55:27.138Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T14:55:27.259Z"}
+{"functionName":"requestMessage","level":"info","message":"Ran cloud function requestMessage for user undefined with:\n  Input: {\"address\":\"0x1ca7974a3d6909c9226673ade7a377692c1c888a\",\"chain\":1,\"network\":\"evm\"}\n  Result: {\"message\":\"localhost wants you to sign in with your Ethereum account:\\n0x1ca7974a3d6909c9226673Ade7A377692C1C888A\\n\\nPlease sign this message to confirm your identity.\\n\\nURI: http://localhost:1337/server\\nVersion: 1\\nChain ID: 1\\nNonce: CWPHDNlClzZA9nl2S\\nIssued At: 2023-07-16T14:55:54.577Z\\nExpiration Time: 2023-07-16T15:10:53.065Z\\nNot Before: 2023-07-16T14:55:53.065Z\"}","params":{"address":"0x1ca7974a3d6909c9226673ade7a377692c1c888a","chain":1,"network":"evm"},"timestamp":"2023-07-16T14:55:54.972Z"}
+{"functionName":"getServerTime","level":"info","message":"Ran cloud function getServerTime for user undefined with:\n  Input: {}\n  Result: null","params":{},"timestamp":"2023-07-16T14:55:55.172Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T14:56:24.543Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T14:56:24.621Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T14:58:08.384Z"}
+{"functionName":"getPluginSpecs","level":"info","message":"Ran cloud function getPluginSpecs for user undefined with:\n  Input: {}\n  Result: []","params":{},"timestamp":"2023-07-16T14:58:08.490Z"}

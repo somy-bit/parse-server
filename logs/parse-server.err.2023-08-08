@@ -1,0 +1,1 @@
+{"code":101,"level":"error","message":"Moralis auth failed, invalid data","stack":"Error: Moralis auth failed, invalid data\n    at D:\\projects\\parse-server\\src\\auth\\MoralisEthAdapter.ts:32:13\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Promise.all (index 0)","timestamp":"2023-08-08T18:46:31.631Z"}
